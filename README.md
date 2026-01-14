@@ -1,6 +1,6 @@
 # 🎮Remake do Jogo Donkey Kong de Atari🎮
 
-Bem-vindo ao repositório do Remake do Jogo Donkey Kong! 
+Bem-vindo ao repositório do Remake do Jogo Donkey Kong de Atari! 
 Este é um projeto desenvolvido como parte do 1º trabalho prático da disciplina Linguagem e Técnicas de Programação I no curso de Informática do CEFET-MG. 
 O jogo utiliza a biblioteca SFML para manipulação de gráficos, som e animações. 
 
@@ -40,7 +40,7 @@ Baixe e extraia o arquivo zip, copie os arquivos para seu projeto
 <h1 align="center" style="color: red;">🕹️Como Jogar?🕹️</h1>
 
 ## 🎯 Objetivo
-Resgate a princesa Pauline! Antes disso, colete todas as moedas disponíveis no nível.
+Resgate a princesa Pauline! Antes disso, colete todas as moedas disponíveis no local.
 
 ## 🎮 Controles
 - **⬆️ Cima**: Subir escadas.
