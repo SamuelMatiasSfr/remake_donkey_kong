@@ -35,24 +35,22 @@ Baixe e extraia o arquivo zip, copie os arquivos para seu projeto
       
 4. Execute o Jogo
 
-##
+## 🕹️Como Jogar?🕹️
 
-<h1 align="center" style="color: red;">🕹️Como Jogar?🕹️</h1>
-
-## 🎯 Objetivo
+### 🎯 Objetivo
 Resgate a princesa Pauline! Antes disso, colete todas as moedas disponíveis no local.
 
-## 🎮 Controles
+### 🎮 Controles
 - **⬆️ Cima**: Subir escadas.
 - **⬇️ Baixo**: Descer escadas.
 - **⬅️ Esquerda**: Mover-se para a esquerda.
 - **➡️ Direita**: Mover-se para a direita.
 - **⏺ Espaço**: Pular.
 
-## 🛠️ Martelo
+### 🛠️ Martelo
 - Ao pegar o martelo, você tem **8 segundos** para utilizá-lo.
 - **Pressione `X`** para usá-lo.
 - Usar o martelo redireciona o barril para outra posição, mas ele permanece visível na tela.
 
-## 💡 Dicas
+### 💡 Dicas
 - É possível **pular sobre os barris** para evitar colisões.
