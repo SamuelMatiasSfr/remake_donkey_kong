@@ -6,9 +6,9 @@ O jogo foi desenvolvido utilizando **C++** e a biblioteca de recursos multimídi
 
 ## ✔ Requisitos
 
-- SFML: Certifique-se de ter a biblioteca SFML (2.5.1 ou superior) instalada e configurada em seu ambiente de desenvolvimento
-- C Compiler: Um compilador compatível com C++11 ou superior
-- Eclipse IDE (ou outra IDE de sua preferência)
+- **SFML**: Certifique-se de ter a biblioteca SFML (2.5.1 ou superior) instalada e configurada em seu ambiente de desenvolvimento
+- **C Compiler**: Um compilador compatível com C++11 ou superior
+- **Eclipse IDE** (ou outra IDE de sua preferência)
 
 ## ⚙️ Configuração
 
